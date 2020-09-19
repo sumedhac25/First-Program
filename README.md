@@ -1,1 +1,1 @@
-Command to run a Python script: python hello_world.py
+Command to run a Python program/script: python hello_world.py
